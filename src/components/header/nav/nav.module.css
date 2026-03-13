@@ -2,6 +2,7 @@
   display: flex;
   justify-content: center;
   color: white;
+  padding: var(--large-gap);
   ul {
     display: flex;
     justify-content: space-between;

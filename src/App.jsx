@@ -4,11 +4,11 @@ import Slider from "./components/slider/Slider";
 
 function App() {
   return (
-    <>
+    <div>
       <Slider />
       <Header />
-      <div id="app"></div>
-    </>
+      {/* <div id="app"></div> */}
+    </div>
   );
 }
 
